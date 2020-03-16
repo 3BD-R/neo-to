@@ -1,6 +1,6 @@
 # Neo-to
 
-**neo-to:** is beta theme for gonme desktop
+**neo-to:** is beta theme for gnome desktop
 
 # Preview
 
